@@ -1,0 +1,14 @@
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
+import torch
+
+model_name = "microsoft/phi-2"
+base_model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto", load_in_8bit=True)
+model = PeftModel.from_pretrained(base_model, "./acord_lora")
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+prompt = "<|system|>\nConvert insurance text into ACORD XML.\n<|user|>\nI want to insure a 2018 Tesla Model 3 with full coverage.\n<|assistant|>\n"
+
+inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+output = model.generate(**inputs, max_new_tokens=200)
+print(tokenizer.decode(output[0], skip_special_tokens=True))
