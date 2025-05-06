@@ -1,0 +1,300 @@
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I want to insure my 2021 Toyota Camry with full coverage and $500 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2021</Year>\n      <Make>Toyota</Make>\n      <Model>Camry</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>500</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Please get me liability insurance for my 2018 Ford F-150."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2018</Year>\n      <Make>Ford</Make>\n      <Model>F-150</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Liability</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I need collision and comprehensive coverage for a 2022 BMW X5 with a $1000 deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2022</Year>\n      <Make>BMW</Make>\n      <Model>X5</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Collision</Type>\n      <Type>Comprehensive</Type>\n      <Deductible>1000</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "Insure a 2019 Honda Accord with minimum legal coverage."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2019</Year>\n      <Make>Honda</Make>\n      <Model>Accord</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Minimum Legal</Type>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
+{"role": "system", "content": "Convert insurance requests into ACORD XML format."}
+{"role": "user", "content": "I have a 2020 Tesla Model 3 and I want full coverage with zero deductible."}
+{"role": "assistant", "content": "<ACORD>\n  <InsuranceRequest>\n    <Vehicle>\n      <Year>2020</Year>\n      <Make>Tesla</Make>\n      <Model>Model 3</Model>\n    </Vehicle>\n    <Coverage>\n      <Type>Full</Type>\n      <Deductible>0</Deductible>\n    </Coverage>\n  </InsuranceRequest>\n</ACORD>"}
